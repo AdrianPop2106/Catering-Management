@@ -1,0 +1,7 @@
+Order#1
+Date:21:25:34.512600900 2021-05-30
+Client:Gheorghe Popescu
+Items:
+Smoked Caviar and Hummus on Pita Toasts -> 79$
+Herbed Oven-Browned Potatoes -> 51$
+Total:130$

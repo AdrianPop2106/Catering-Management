@@ -1,0 +1,8 @@
+Order#2
+Date:16:04:06.769566100 2021-06-01
+Client:Georgiana Ban
+Items:
+Bacon-and-Egg Rice -> 88$
+Grilled Steaks with Blue Cheese and Chiles -> 64$
+Quinoa Brown Rice Sushi -> 93$
+Total:245$

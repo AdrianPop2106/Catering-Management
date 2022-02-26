@@ -1,0 +1,8 @@
+Order#5
+Date:20:32:00.199925200 2021-06-01
+Client:Gheorghe Popescu
+Items:
+Ethiopian Spice Tea -> 49$
+Cilantro-Tomato Salsa -> 32$
+Ethiopian Spice Tea -> 49$
+Total:130$

@@ -1,0 +1,7 @@
+Order#3
+Date:16:04:22.647078400 2021-06-01
+Client:Georgiana Ban
+Items:
+Provencal Goat Cheese and Herb Soufflé -> 28$
+Test Menu-> 108$
+Total:136$

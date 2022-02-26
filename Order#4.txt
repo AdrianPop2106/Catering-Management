@@ -1,0 +1,8 @@
+Order#4
+Date:16:05:45.064000500 2021-06-01
+Client:Gheorghe Popescu
+Items:
+Sticky Rice -> 56$
+Banana Daiquiri -> 74$
+Banana Daiquiri -> 74$
+Total:204$

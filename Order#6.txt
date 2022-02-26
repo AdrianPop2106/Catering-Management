@@ -1,0 +1,7 @@
+Order#6
+Date:15:47:12.950226 2021-06-02
+Client:Gheorghe Popescu
+Items:
+Quick & Spicy Asian Pickles -> 48$
+Cilantro-Tomato Salsa -> 32$
+Total:80$
